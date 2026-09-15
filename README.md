@@ -10,19 +10,6 @@ npx --yes serve .
 
 Then open the printed URL (typically `http://localhost:3000`).
 
-## GitHub Pages
-
-1. Push this repository.
-2. Settings → Pages → Deploy from branch (`main` / `/`).
-3. The reader loads `designing-data-intensive-applications.pdf` by default.
-
-## Another PDF
-
-Put the file next to `index.html` and open:
-
-```
-https://<user>.github.io/<repo>/?pdf=my-book.pdf
-```
 
 ## Controls
 
